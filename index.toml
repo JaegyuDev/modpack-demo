@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "9c54c19f8d359e9a08e1afb6f00a48ec55c03763ccc91ca00e410689ccd57863"
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
